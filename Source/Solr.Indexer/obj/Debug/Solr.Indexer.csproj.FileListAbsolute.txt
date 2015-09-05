@@ -1,1 +1,2 @@
 D:\MyGitRepo\ElasticSearch-.Net-Sample\Solr-.Net-Sample\Solr.Indexer\bin\Debug\Solr.Indexer.exe.config
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Solr.Indexer.exe.config
