@@ -1,2 +1,15 @@
 D:\MyGitRepo\ElasticSearch-.Net-Sample\Solr-.Net-Sample\Solr.Indexer\bin\Debug\Solr.Indexer.exe.config
 D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Solr.Indexer.exe.config
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Solr.Indexer.exe
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Solr.Indexer.pdb
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\SolrNet.dll
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\SolrNet.pdb
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\SolrNet.xml
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\obj\Debug\Solr.Indexer.csprojResolveAssemblyReference.cache
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\obj\Debug\Solr.Indexer.exe
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\obj\Debug\Solr.Indexer.pdb
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\docs\hd.xml
+D:\MyGitRepo\Solr-.Net-Sample\Source\Solr.Indexer\bin\Debug\docs\mem.xml
